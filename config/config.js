@@ -17,4 +17,8 @@ const sequelize = new Sequelize('heroku_42902aead1b8139', 'b0c65c38ce144d', '96f
 
 
 
+
+
+
+
 module.exports=sequelize;
